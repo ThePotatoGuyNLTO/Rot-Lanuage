@@ -1,0 +1,13 @@
+bye sigma
+
+fanum 'Enter Name'
+
+taper x input $
+
+bye sigma
+
+add skibidi x 0 'Hello '
+add skibidi x 1 ', How are you!'
+
+fanum x
+taper x input $ 
