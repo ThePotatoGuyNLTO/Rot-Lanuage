@@ -1,5 +1,5 @@
 # Rot-Lanuage
-The low level BrainRot lanuage (based off of BASIC)
+![image](https://github.com/user-attachments/assets/8b74033c-ab9d-4a44-9402-69447f675e58)
 
 
 ## Variables
